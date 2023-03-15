@@ -1,5 +1,7 @@
 # Содержание
 
+Работа с useCallback - возвращает мемозированную функцию коллбэка, вторым аргументом передаем зависимость (кэшируем функцию)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
